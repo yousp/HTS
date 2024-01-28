@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706434390 source:c:\users\daydr\documents\computer\hts\main.cpp
+	<stdio.h>
+	<inttypes.h>
+	<string.h>
+
